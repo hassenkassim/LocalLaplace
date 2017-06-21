@@ -1,4 +1,5 @@
 # Local Laplacian Filters
-Implementation of Local Laplacian Filters, Edge-aware Image Processing with a Laplacian Pyramid
+This is a try to implement the Local Laplacian Filters, Edge-aware Image Processing with a Laplacian Pyramid.
 
-> Paper: https://cacm.acm.org/magazines/2015/3/183587-local-laplacian-filters/abstract
+## Acknowledgments
+> Paper by Sylvain Paris, Samuel W. Hasinoff, Jan Kautz: https://cacm.acm.org/magazines/2015/3/183587-local-laplacian-filters/abstract
