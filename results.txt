@@ -1,0 +1,75 @@
+720x405 parallel:
+real	0m3.025s
+real	0m3.425s
+real	0m2.856s
+real	0m2.988s
+real	0m3.404s
+real	0m2.704s
+real	0m3.686s
+real	0m2.897s
+real	0m3.028s
+real	0m2.669s
+
+3.0682s
+
+720x405 seriell:
+real	0m8.792s
+real	0m8.660s
+real	0m8.656s
+real	0m8.662s
+real	0m8.658s
+real	0m8.648s
+real	0m8.665s
+real	0m8.668s
+real	0m8.657s
+real	0m8.713s
+
+8.687s
+
+1920x1080 parallel:
+real	0m22.788s
+real	0m20.578s
+real	0m20.850s
+real	0m24.476s
+real	0m21.233s
+real	0m21.677s
+real	0m21.017s
+real	0m20.697s
+real	0m20.712s
+real	0m24.776s
+
+22.017s
+
+1920x1080 serial:
+real	1m2.420s
+real	1m2.779s
+real	1m2.537s
+
+1m2.571s
+
+3840x2400 parallel:
+real	1m38.271s
+
+3840x2400 serial:
+real	4m11.821s
+
+
+
+
+
+---
+720x405 parallel:
+0m7.350s
+
+720x405 serial: 
+0m22.581s
+
+1920x1080 parallel:
+
+
+
+
+3840x2400 parallel:
+3m18.312s
+
+3840x2400 serial:
